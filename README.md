@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋 I'm Ashish  <br><br>🚀 A passionate **Web & App Developer | Data Science Student** who loves building useful, clean, and creative tech.<br><br>---<br><br>🔭 I’m currently working on  <br>- Full-stack **Web & App** projects  <br>- Exam-savior – a student-focused platform  <br>- UI/UX improvements with Tailwind & CSS animations  <br>- React Native apps  <br><br>---<br><br>### 👯 I’m looking to collaborate on  <br>- Open-source **Web & App Development** projects  <br>- JavaScript / React / **React Native** applications  <br>- Creative tech ideas with real-world impact  <br><br>---<br><br>### 🤝 I’m looking for help with  <br>- Advanced backend & app architecture  <br>- Scaling projects & performance optimization  <br>- Publishing & optimizing mobile apps  <br><br>---<br><br>### 🌱 I’m currently learning  <br>- Data Science & Machine Learning  <br>- PostgreSQL (Neon) & backend migrations  <br>- System design & clean architecture  <br>- Mobile app performance & best practices  <br><br>---<br><br>### 💬 Ask me about  <br>- Web Development (HTML, CSS, JavaScript, React)  <br>- **App Development (React Native)**  <br>- Node.js, Express & Authentication (JWT, Sessions)  <br>- Java, C++, and core OOP concepts  <br><br>---<br><br>### ⚡ Fun fact  <br>I turn **ideas into web apps & mobile apps**, break them, fix them, and repeat 😄  <br><br>---<br><br>### 🛠️ Tech Stack  <br>**Frontend:** HTML, CSS, JavaScript, React, Tailwind  <br>**Mobile:** React Native  <br>**Backend:** Node.js, Express, MongoDB, PostgreSQL  <br>**Languages:** Java, C++, JavaScript  <br>**Tools:** Git, GitHub, VS Code, Android Studio, Adobe Premiere Pro, CapCut  <br><br>---<br><br>### 📫 Connect with me  <br>- GitHub: [@AshishX3](https://github.com/AshishX3)<br><br>⭐ *If you like my work, consider starring my repositories!*<br>
+## Hi there 👋 I'm Ashish  <br><br>🚀 **Web & App Developer | Data Science Student**  <br>I build clean, useful web & mobile apps and love turning ideas into real projects.<br><br>🔭 Currently working on full-stack web & app projects (React, React Native, Node.js)  <br>🌱 Learning Data Science, backend architecture & system design  <br>💬 Ask me about Web Dev, App Dev, JWT Auth, Java & OOP  <br>⚡ Fun fact: I break things to make them better 😄  <br><br>☕ If my work helps you, consider supporting me with a coffee!<br>
 
 
 ## 🌐 Socials:
@@ -11,6 +11,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=AshishX3&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AshishX3&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishX3&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AshishX3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AshishX3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AshishX3&icon=0&color=6)](https://visitcount.itsvg.in)
